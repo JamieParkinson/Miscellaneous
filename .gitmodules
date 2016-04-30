@@ -1,0 +1,3 @@
+[submodule "cite2c"]
+	path = cite2c
+	url = git@github.com:takluyver/cite2c.git
